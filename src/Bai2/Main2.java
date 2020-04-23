@@ -65,7 +65,7 @@ public class Main2 {
             tien2 = tien2 + gh2.hh.get(i).getGia();
         }
         gh2.hinhthucTT(new ThanhToanCOD());
-        System.err.println("So tien phai tra: "+gh2.thanhToan(tien2));
+        System.err.println("So tien phai thanh toan: "+gh2.thanhToan(tien2));
         
         
     }
